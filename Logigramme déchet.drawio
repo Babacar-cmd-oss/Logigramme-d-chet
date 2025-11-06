@@ -1,0 +1,192 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.9">
+  <diagram name="Page-1" id="ezXNb4lwLwee183QrwnP">
+    <mxGraphModel dx="1426" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rifMV9gi824iUXL-b-Bf-1" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;QUI&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="128" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-2" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;QUOI&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="393" y="20" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-3" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;COMMENT&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="678" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rifMV9gi824iUXL-b-Bf-5" target="rifMV9gi824iUXL-b-Bf-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-5" value="Récolte dans des sacs transparents distribués tous les jeudis par la responsable des achats" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338" y="160" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-6" value="Manutentionnaire" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="118" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-7" value="Déchet carton et film de palétisation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="383" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-8" value="&lt;span data-contrast=&quot;auto&quot; lang=&quot;FR-FR&quot; class=&quot;TextRun SCXW173714735 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; font-variant-ligatures: none !important; color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 11pt; line-height: 17px; font-family: &amp;quot;Arial Narrow&amp;quot;, &amp;quot;Arial Narrow_EmbeddedFont&amp;quot;, &amp;quot;Arial Narrow_MSFontService&amp;quot;, sans-serif; font-weight: bold;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW173714735 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot;&gt;Recueil initial / Tri&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXW173714735 BCX0&quot; data-ccp-props=&quot;{&amp;quot;335551550&amp;quot;:6,&amp;quot;335551620&amp;quot;:6}&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 11pt; line-height: 17px; font-family: &amp;quot;Arial Narrow&amp;quot;, &amp;quot;Arial Narrow_EmbeddedFont&amp;quot;, &amp;quot;Arial Narrow_MSFontService&amp;quot;, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8" y="180" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-9" value="&lt;span data-contrast=&quot;auto&quot; lang=&quot;FR-FR&quot; class=&quot;TextRun SCXW92465357 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 11pt; line-height: 17px; font-family: &amp;quot;Arial Narrow&amp;quot;, &amp;quot;Arial Narrow_EmbeddedFont&amp;quot;, &amp;quot;Arial Narrow_MSFontService&amp;quot;, sans-serif; font-weight: bold; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW92465357 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot;&gt;Stockage&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;span data-contrast=&quot;auto&quot; lang=&quot;FR-FR&quot; class=&quot;TextRun SCXW92465357 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 11pt; line-height: 17px; font-family: &amp;quot;Arial Narrow&amp;quot;, &amp;quot;Arial Narrow_EmbeddedFont&amp;quot;, &amp;quot;Arial Narrow_MSFontService&amp;quot;, sans-serif; font-weight: bold; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW92465357 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot;&gt;intermédiaire&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXW92465357 BCX0&quot; data-ccp-props=&quot;{&amp;quot;335551550&amp;quot;:6,&amp;quot;335551620&amp;quot;:6}&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 11pt; line-height: 17px; font-family: &amp;quot;Arial Narrow&amp;quot;, &amp;quot;Arial Narrow_EmbeddedFont&amp;quot;, &amp;quot;Arial Narrow_MSFontService&amp;quot;, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8" y="290" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-10" value="Manutentionnaire" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="103" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-11" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="688" y="270" width="139" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rifMV9gi824iUXL-b-Bf-15" target="rifMV9gi824iUXL-b-Bf-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="608" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rifMV9gi824iUXL-b-Bf-15" target="rifMV9gi824iUXL-b-Bf-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rifMV9gi824iUXL-b-Bf-15" target="rifMV9gi824iUXL-b-Bf-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-15" value="Dépot des sacs sur le chariot de nettoyage" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="363" y="270" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rifMV9gi824iUXL-b-Bf-17" target="rifMV9gi824iUXL-b-Bf-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-17" value="EHPAD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="198" y="420" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rifMV9gi824iUXL-b-Bf-19" target="rifMV9gi824iUXL-b-Bf-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-19" value="SMR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="298" y="420" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rifMV9gi824iUXL-b-Bf-21" target="rifMV9gi824iUXL-b-Bf-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-21" value="USLD-MEDECINE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="498" y="420" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="628" y="460" as="sourcePoint" />
+            <mxPoint x="653" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-23" value="Pharmacie/Cuisine centrale" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="598" y="420" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.4;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rifMV9gi824iUXL-b-Bf-15" target="rifMV9gi824iUXL-b-Bf-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.367;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rifMV9gi824iUXL-b-Bf-15" target="rifMV9gi824iUXL-b-Bf-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rifMV9gi824iUXL-b-Bf-27" target="rifMV9gi824iUXL-b-Bf-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-27" value="Bureau" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="398" y="420" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-28" value="Dans le collecteur à aluminium du local linge sale de chaque étage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="198" y="510" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-29" value="Collecte par le service dans le local identifié local linge sale" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="298" y="510" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-30" value="Collecte via le&amp;nbsp;&lt;div&gt;Monte charge&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="498" y="510" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rifMV9gi824iUXL-b-Bf-32" target="rifMV9gi824iUXL-b-Bf-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-32" value="Ramassage par les ASH* sur le chariot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="398" y="510" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-33" value="Ramassage par les manutentionnaire et enrôlement dans la benne à carton" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="608" y="510" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-34" value="&lt;span data-contrast=&quot;auto&quot; lang=&quot;FR-FR&quot; class=&quot;TextRun SCXW171295713 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; font-variant-ligatures: none !important; color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 11pt; line-height: 17px; font-family: &amp;quot;Arial Narrow&amp;quot;, &amp;quot;Arial Narrow_EmbeddedFont&amp;quot;, &amp;quot;Arial Narrow_MSFontService&amp;quot;, sans-serif; font-weight: bold;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW171295713 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot;&gt;Transport&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXW171295713 BCX0&quot; data-ccp-props=&quot;{&amp;quot;335551550&amp;quot;:6,&amp;quot;335551620&amp;quot;:6}&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 11pt; line-height: 17px; font-family: &amp;quot;Arial Narrow&amp;quot;, &amp;quot;Arial Narrow_EmbeddedFont&amp;quot;, &amp;quot;Arial Narrow_MSFontService&amp;quot;, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8" y="650" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-35" value="Manutentionnaire" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="88" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rifMV9gi824iUXL-b-Bf-37" target="rifMV9gi824iUXL-b-Bf-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-37" value="Transport du local linge sale vers la benne cartons" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333" y="630" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-38" value="Selon la planification établie d&#39;évacuation des cartons" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="688" y="620" width="139" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-39" value="&lt;span data-contrast=&quot;auto&quot; lang=&quot;FR-FR&quot; class=&quot;TextRun SCXW103420952 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 11pt; line-height: 17px; font-family: &amp;quot;Arial Narrow&amp;quot;, &amp;quot;Arial Narrow_EmbeddedFont&amp;quot;, &amp;quot;Arial Narrow_MSFontService&amp;quot;, sans-serif; font-weight: bold; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW103420952 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot;&gt;Stockage&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;span data-contrast=&quot;auto&quot; lang=&quot;FR-FR&quot; class=&quot;TextRun SCXW103420952 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 11pt; line-height: 17px; font-family: &amp;quot;Arial Narrow&amp;quot;, &amp;quot;Arial Narrow_EmbeddedFont&amp;quot;, &amp;quot;Arial Narrow_MSFontService&amp;quot;, sans-serif; font-weight: bold; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW103420952 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot;&gt;avant&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-contrast=&quot;auto&quot; lang=&quot;FR-FR&quot; class=&quot;TextRun SCXW103420952 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 11pt; line-height: 17px; font-family: &amp;quot;Arial Narrow&amp;quot;, &amp;quot;Arial Narrow_EmbeddedFont&amp;quot;, &amp;quot;Arial Narrow_MSFontService&amp;quot;, sans-serif; font-weight: bold; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW103420952 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot;&gt;élimination&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXW103420952 BCX0&quot; data-ccp-props=&quot;{&amp;quot;335551550&amp;quot;:6,&amp;quot;335551620&amp;quot;:6}&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 11pt; line-height: 17px; font-family: &amp;quot;Arial Narrow&amp;quot;, &amp;quot;Arial Narrow_EmbeddedFont&amp;quot;, &amp;quot;Arial Narrow_MSFontService&amp;quot;, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8" y="700" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-40" value="Manutentionnaire" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="88" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rifMV9gi824iUXL-b-Bf-42" target="rifMV9gi824iUXL-b-Bf-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-42" value="Stockage dans la benne à carton" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333" y="710" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-43" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="688" y="710" width="139" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-44" value="&lt;span data-contrast=&quot;auto&quot; lang=&quot;FR-FR&quot; class=&quot;TextRun SCXW240721340 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; font-variant-ligatures: none !important; color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 11pt; line-height: 17px; font-family: &amp;quot;Arial Narrow&amp;quot;, &amp;quot;Arial Narrow_EmbeddedFont&amp;quot;, &amp;quot;Arial Narrow_MSFontService&amp;quot;, sans-serif; font-weight: bold;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW240721340 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot;&gt;Elimination&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXW240721340 BCX0&quot; data-ccp-props=&quot;{&amp;quot;335551550&amp;quot;:6,&amp;quot;335551620&amp;quot;:6}&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 11pt; line-height: 17px; font-family: &amp;quot;Arial Narrow&amp;quot;, &amp;quot;Arial Narrow_EmbeddedFont&amp;quot;, &amp;quot;Arial Narrow_MSFontService&amp;quot;, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8" y="810" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-45" value="Prestataire PAPREC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="88" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-46" value="Elimination une fois la benne remplie à la demande du responsable du ST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333" y="790" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-47" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="688" y="790" width="139" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-48" value="&lt;span data-contrast=&quot;auto&quot; lang=&quot;FR-FR&quot; class=&quot;TextRun SCXW13900074 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; font-variant-ligatures: none !important; color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 11pt; line-height: 17px; font-family: &amp;quot;Arial Narrow&amp;quot;, &amp;quot;Arial Narrow_EmbeddedFont&amp;quot;, &amp;quot;Arial Narrow_MSFontService&amp;quot;, sans-serif; font-weight: bold;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW13900074 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot;&gt;Evaluation&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXW13900074 BCX0&quot; data-ccp-props=&quot;{&amp;quot;335551550&amp;quot;:6,&amp;quot;335551620&amp;quot;:6}&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 11pt; line-height: 17px; font-family: &amp;quot;Arial Narrow&amp;quot;, &amp;quot;Arial Narrow_EmbeddedFont&amp;quot;, &amp;quot;Arial Narrow_MSFontService&amp;quot;, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17" y="1070" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-49" value="Responsable" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="87" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-50" value="Evaluation spécifique conformément au plan d&#39;évaluation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="1060" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-51" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="687" y="1060" width="139" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-52" value="Services techniques" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="88" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-53" value="Entretien des chariot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333" y="870" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-54" value="Plan de maintenance ?" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="688" y="870" width="139" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-55" value="Services techniques" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="87" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-56" value="Entretien du local de stockage avant élimination" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="970" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-57" value="Plan d&#39;entretien ?" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="687" y="970" width="139" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-58" value="&lt;span class=&quot;EOP SCXW240721340 BCX0&quot; data-ccp-props=&quot;{&amp;quot;335551550&amp;quot;:6,&amp;quot;335551620&amp;quot;:6}&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 11pt; line-height: 17px; font-family: &amp;quot;Arial Narrow&amp;quot;, &amp;quot;Arial Narrow_EmbeddedFont&amp;quot;, &amp;quot;Arial Narrow_MSFontService&amp;quot;, sans-serif;&quot;&gt;&lt;span data-contrast=&quot;auto&quot; lang=&quot;FR-FR&quot; class=&quot;TextRun SCXW144361234 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; font-size: 11pt; line-height: 17px; font-weight: bold; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW144361234 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot;&gt;Maintenance&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW144361234 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot;&gt;&amp;nbsp;des moyens de transport&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXW144361234 BCX0&quot; data-ccp-props=&quot;{&amp;quot;335551550&amp;quot;:6,&amp;quot;335551620&amp;quot;:6}&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; font-size: 11pt; line-height: 17px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8" y="870" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rifMV9gi824iUXL-b-Bf-59" value="&lt;span data-contrast=&quot;auto&quot; lang=&quot;FR-FR&quot; class=&quot;TextRun SCXW246928180 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; text-align: justify; background-color: rgb(255, 255, 255); font-size: 11pt; line-height: 17px; font-family: &amp;quot;Arial Narrow&amp;quot;, &amp;quot;Arial Narrow_EmbeddedFont&amp;quot;, &amp;quot;Arial Narrow_MSFontService&amp;quot;, sans-serif; font-weight: bold; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW246928180 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot;&gt;Entretien du local&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW246928180 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot;&gt;de collecte&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXW246928180 BCX0&quot; data-ccp-props=&quot;{&amp;quot;335551550&amp;quot;:6,&amp;quot;335551620&amp;quot;:6}&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; text-align: justify; background-color: rgb(255, 255, 255); font-size: 11pt; line-height: 17px; font-family: &amp;quot;Arial Narrow&amp;quot;, &amp;quot;Arial Narrow_EmbeddedFont&amp;quot;, &amp;quot;Arial Narrow_MSFontService&amp;quot;, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8" y="970" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
